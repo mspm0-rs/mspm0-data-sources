@@ -8,7 +8,7 @@ The current version of the sysconfig metadata is 1.23
 
 # Licensing
 
-Please consult the license in the [MSPMO SDK] repository and the [TPSA] for the sysconfig files. We cannot guarantee that the information in this repository is correct.
+Please consult the license in the [MSPM0 SDK] repository and the [TPSA] for the sysconfig files. We cannot guarantee that the information in this repository is correct.
 
 An important clause to note is that the [TPSA] only allows use with TI devices. The header files in the [MSPM0 SDK] appear to contain a BSD 3-Clause license.
 
