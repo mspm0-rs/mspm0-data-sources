@@ -4,7 +4,7 @@ The data comes from the following:
 - Header files from the [MSPM0 SDK] available on GitHub
 - The metadata from SysConfig included in the `utils` folder of a CCS installation.
 
-The current version of the sysconfig metadata is 1.23
+The current version of the sysconfig metadata is 1.27
 
 # Licensing
 
